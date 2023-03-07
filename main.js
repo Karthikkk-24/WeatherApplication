@@ -1,4 +1,4 @@
-const apiKey = "0153d4ab127d8086b11ca42f21bb5b3a";
+const apiKey = "enter_your_api_key_here";
 
 const locationInput = document.querySelector(".location input");
 const resultsContainer = document.querySelector(".weather_card .results");
